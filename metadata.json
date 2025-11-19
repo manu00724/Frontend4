@@ -1,0 +1,5 @@
+{
+  "name": "LegalDoc Analyzer UI",
+  "description": "A document analysis interface featuring a dual-panel sidebar for extracted data and onerous clauses, integrated with a rich text editor for intelligent navigation and highlighting.",
+  "requestFramePermissions": []
+}
